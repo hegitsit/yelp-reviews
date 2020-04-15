@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { ReviewList } from './components/reviewList'
-import { TOKEN } from './yelp-api/config';
+import { TOKEN } from '../yelp-api/config';
 import './App.css';
 
 function App() {
